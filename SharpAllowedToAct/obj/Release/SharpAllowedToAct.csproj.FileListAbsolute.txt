@@ -1,0 +1,4 @@
+C:\Users\jumbo\Desktop\SharpAllowedToAct\SharpAllowedToAct\obj\Release\SharpAllowedToAct.csproj.CoreCompileInputs.cache
+C:\Users\jumbo\Desktop\SharpAllowedToAct\SharpAllowedToAct\obj\Release\SharpAllowedToAct.exe
+C:\Users\jumbo\Desktop\SharpAllowedToAct\SharpAllowedToAct\obj\Release\SharpAllowedToAct.pdb
+C:\Users\jumbo\Desktop\SharpAllowedToAct\SharpAllowedToAct\obj\Release\SharpAllowedToAct.csprojAssemblyReference.cache
