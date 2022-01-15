@@ -10,11 +10,11 @@
 
 # 使用方法
 
-默认msDS-AllowedToDelegateTo没有指定，因此申请票据失败：
+默认`msds-allowedtoactonbehalfofotheridentity`没有指定，因此申请票据失败：
 
 ![image-20211215212349621](README.assets/image-20211215212349621.png)
 
-利用本项目的工具进行修改受害者的msDS-AllowedToDelegateTo属性：
+利用本项目的工具进行修改受害者的`msds-allowedtoactonbehalfofotheridentity`属性：
 
 ![image-20211215213032275](README.assets/image-20211215213032275.png)
 
